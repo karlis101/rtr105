@@ -142,3 +142,59 @@ cd ~
   121  history
 user@epk428-4:/$ ^C
 user@epk428-4:/$ 
+1  VirtualBox --startvm XP
+    2  quartus
+    3  irfoxf
+    4  firefox
+    5  tasks
+    6  task
+    7  gr
+    8  s
+    9  spec
+   10  spek
+   11  cat /bin/ls/
+   12  cat /bin/ls
+   13  where is cd
+   14  whersis cd
+   15  cd /
+   16  tree
+   17  echo $path
+   18  echo $PATH
+   19  echo $path
+   20  echo $PATH
+   21  ls /bin
+   22  ping
+   23  pong
+   24  -p
+   25  ls -p
+   26  pwd
+   27  ls -lt
+   28  nano my_first_shell_script.sh
+   29  ps aux | grep nano
+   30  fg
+   31  ..
+   32  cd
+   33  ls -lt
+   34  nano my_first_shell_script.sh
+   35  nano my_first_shell_script
+   36  ls -lt
+   37  echo $PATH
+   38  PATH=$PATH:~
+   39  run my_first_shell_script
+   40  /home/user/ my_first_shell_script
+   41  /home/user/ my_first_shell_script.sh
+   42  /home/user my_first_shell_script.sh
+   43  /home/user/my_first_shell_script.sh
+   44  cd
+   45  chmod 754 my_first_shell_script.sh
+   46  ls -l
+   47* mv nano my_first_shell_script
+   48  mv my_first_shell_script_sh
+   49  mv my_first_shell_script_sh my_first_shell_script.sh
+   50  chmod 754 my_first_shell_script.sh
+   51  ls -l
+   52  mv ../ABC/b.txt c.txt
+   53  history
+user@epk428-4:~$ ^C
+user@epk428-4:~$ 
+
