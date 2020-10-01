@@ -198,3 +198,50 @@ user@epk428-4:/$
 user@epk428-4:~$ ^C
 user@epk428-4:~$ 
 
+1  VirtualBox --startvm XP
+    2  quartus
+    3  ls -lt
+    4  git clone https://github.com/tatusmatrix/EDIBO
+    5* ls -lt 
+    6  git clone https://github.com/tatusmatrix/EDIBO new
+    7  -cd new-cd new
+    8  rm -r EDIBO
+    9  -rf EDIBONEW
+   10  -rf EDIBo
+   11  cd edibo
+   12  cd edibo/
+   13  git clone https://github.com/tatusmatrix/EDIBO new
+   14  git clone https://github.com/tatusmatrix/EDIBO
+   15  cd EDIBO
+   16  ls -lt
+   17  cat git-upload
+   18  nano a.sh
+   19  read a.sh
+   20  man read
+   21  ls -lt
+   22  ls -lt a.sh
+   23  mkdir a.sh
+   24  ls -lt a.sh
+   25  ./a.sh
+   26  chmod 754 a.sh
+   27  ls -lt a.sh
+   28  ls -lt
+   29  ls +x a.sh
+   30  - a.sh 
+   31  nao 
+   32  nano my_first_code.c
+   33  gcc my_first_code.c 
+   34  echo $0
+   35  echo $?
+   36  ls.lt
+   37  ls -lt
+   38  cat a.out
+   39  a./.out
+   40  ./aout
+   41  ./a.out
+   42  cp my_first_code.c  my_second_code.c
+   43  ls -lt
+   44  nano my_second_code.c 
+   45  history
+user@epk428-4:~/EDIBO$ ^C
+user@epk428-4:~/EDIBO$ 
