@@ -242,6 +242,91 @@ user@epk428-4:~$
    42  cp my_first_code.c  my_second_code.c
    43  ls -lt
    44  nano my_second_code.c 
-   45  history
-user@epk428-4:~/EDIBO$ ^C
-user@epk428-4:~/EDIBO$ 
+   45   1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/karlis101/rtr105
+    4  cd rtr105
+    5  gcc code1.c
+    6  ls-lt
+    7  ls -lt
+    8  cd..
+    9  ..
+   10  ..cd
+   11  ls -lt
+   12  cd rtr105
+   13  ls -lt
+   14  rtr105 code1.c -o code1.out
+   15  gcc code1.c -o code1.out
+   16  nano code.1
+   17  nano code1.c
+   18  a.out
+   19  ./a.aout
+   20  ./a.out
+   21  echo $?
+   22  cat code1.c 
+   23  gcc code1.c 
+   24  ls -lt
+   25  nano code1.c nano code1.c 
+   26  a.out
+   27  run a.out 
+   28  smartctl
+   29  ./code1.out
+   30  ./a.out
+   31  user@epk428-4:~/rtr105$ a.out
+   32  cat helloworld
+   33  cat code1.c 
+   34  gcc code1.c 
+   35  a.out
+   36  a.outls -lt
+   37  ls-lt
+   38  ls -lt
+   39  nano code1.c 
+   40  ls -lt
+   41  nano code1.c 
+   42  gcc code1.c 
+   43  ./.a.out
+   44  ./a.out
+   45  echo $?
+   46  gcc code1.c 
+   47  nano code1.c 
+   48  gcc code1.c 
+   49  echo $?
+   50  gcc code1.c 
+   51  echo $?
+   52  gcc code1.c 
+   53  nano code1.c 
+   54  gcc code1.c 
+   55  nano code1.c 
+   56  gcc code1.c 
+   57  nano code1.c 
+   58  gcc code1.c 
+   59  nano code1.c 
+   60  gcc code1.c 
+   61  nano code1.c 
+   62  gcc code1.c 
+   63  nano code1.c 
+   64  gcc code1.c 
+   65  nano code1.c 
+   66  gcc code1.c 
+   67  echo $?
+   68  helloworld.c
+   69  code1.c
+   70  .helloworld
+   71  nano code1.c 
+   72  mv code1.c Hello_world
+   73  hello_world
+   74  nano hello_world
+   75  mv code1.c Hello_world.c
+   76  mv Hello_world Hello_world.c
+   77  Hello_wolrd.c
+   78  nano hello
+   79  ls -lt
+   80  cd rtr105
+   81  ls -lt
+   82  nano hello_world.save 
+   83  nano hello_world.c
+   84  nano a.aout
+   85  nano a.out
+   86  nano hello_world.c
+   87  nano hello_world.save
+
