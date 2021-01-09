@@ -328,5 +328,4 @@ user@epk428-4:~$
    84  nano a.aout
    85  nano a.out
    86  nano hello_world.c
-   87  nano hello_world.save
-
+ 
