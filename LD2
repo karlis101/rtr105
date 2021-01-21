@@ -19,7 +19,7 @@ main ()
   scanf ("%f", &dx);
   
   if(shiftedFVal(a,c)*shiftedFVal(b,c)>0){
-      printf("Para saknes vai nav saknes");
+      printf("para saknes vai nav saknes");
       return 1;
   }
   
